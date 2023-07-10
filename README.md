@@ -2,7 +2,7 @@
 This is an attempt to create a comprehensive LT PoSH module. 
 To import this module in your scripts you can run:
 ```
-(new-object Net.WebClient).DownloadString('https://bit.ly/LTPoSh') | iex
+(new-object Net.WebClient).DownloadString('[https://bit.ly/LTPoSh](https://github.com/roberthitech/LabTech-Powershell-Module/blob/master/LabTech.psm1)') | iex
 ```
 
 # Functions
